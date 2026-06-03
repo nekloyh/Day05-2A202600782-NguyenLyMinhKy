@@ -10,13 +10,13 @@
 >
 > **Lỗi nghiêm trọng nhất (Safety):** guardrail phạm vi của NEO **bị bypass** khi user mạo danh "ADMIN" → NEO trả lời ngoài lĩnh vực hàng không (viết tutorial xây nhà); slot-filling còn **nuốt input rác** và **tự bịa field**. Đây là nhóm rủi ro cao nhất, nên ưu tiên xử lý trước (Finding 4–5).
 
----
+--- 
 
 ## 1. Sản phẩm đã chọn
 
-| Mục | Nội dung |
+| Mục | Nội dung | 
 |---|---|
-| Sản phẩm | Vietnam Airlines — NEO |
+| Sản phẩm | Vietnam Airlines — NEO | 
 | AI feature | Chatbot tra cứu chuyến bay, giá vé, đặt vé, hỗ trợ khách hàng |
 | Cách truy cập | Webapp (chatbot trên website Vietnam Airlines) |
 | Bối cảnh dùng thử | Đóng vai người dùng cuối cần tra thông tin chuyến bay (chặng, giá, lịch) và đặt vé. |
